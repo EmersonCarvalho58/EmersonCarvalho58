@@ -8,7 +8,7 @@ Sou Emerson Carvalho, atualmente aprendendo programação front end e criando pr
 
 HTML <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
 
-CSS  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white alt="css-logo">
+CSS  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 
 <br>
 [![EmersonCarvalho58 stats](https://github-readme-stats.vercel.app/api?username=EmersonCarvalho58)](https://github.com/anuraghazra/github-readme-stats)
