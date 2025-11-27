@@ -11,6 +11,7 @@ HTML <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo
 CSS  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 
 <br>
-[![EmersonCarvalho58 stats](https://github-readme-stats.vercel.app/api?username=EmersonCarvalho58)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonCarvalho58)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonCarvalho58)](https://github.com/anuraghazra/github-readme-stats)
